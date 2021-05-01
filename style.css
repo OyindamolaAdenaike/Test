@@ -1,0 +1,20 @@
+body{
+    background-color: coral;
+}
+p {
+font-size: x-large;
+margin: 100px;
+text-align: justify;
+
+}
+h1{
+    text-align: center;
+    border: ridge;
+    border-width: 30px;
+    border-color:yellowgreen;
+    box-shadow: slategray;
+    border-radius: 10px;
+    background-color: darkblue;
+
+    
+}
